@@ -20,4 +20,3 @@ XMergedSubject - merged subjects
 YMerged - merged activities
 tidyResult - combination of merged main research data subjects and activities
 tidyResultAverage - result after all data operations
-# GettingAndCleaningData 
